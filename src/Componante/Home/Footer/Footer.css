@@ -1,0 +1,44 @@
+footer ul li {
+    list-style: none;
+}
+footer {
+    background: #333333;
+}
+.footerLogo li {
+    font-size: 22px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.recent-trips {
+    display: flex;
+    width: 100px;
+}
+.recent-trips img {
+    width: 100%;
+    margin: 0 8px;
+}
+.social-icon li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 15px;
+}
+.social-icon li svg {
+    font-size: 40px;
+    color: #fff;
+    background-color: #28a745;
+    border-radius: 30px;
+    padding: 10px;
+}
+.social-icon li svg:hover {
+    background-color: rgb(93, 168, 18);
+}
+
+@media only screen and (max-width: 768px) {
+    .footerLogo li {
+        text-align: center;
+    }
+    .social-icon {
+        text-align: center;
+    }
+
+}

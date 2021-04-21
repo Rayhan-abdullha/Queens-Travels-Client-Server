@@ -1,0 +1,10 @@
+.single-services {
+    background: #f2f4f5;
+    padding: 10px 10px 25px 10px;
+    box-shadow: 0px 0px 25px -5px #a7a7a7;
+    border-radius: 10px;
+    transition: .3s;
+}
+.single-services:hover {
+    transform: scale(1.1);
+}

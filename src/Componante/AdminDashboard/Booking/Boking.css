@@ -1,0 +1,9 @@
+.single-booked {
+    background: whitesmoke;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 0 20px -7px black;
+}
+.single-booked h4 {
+    float: right;
+}

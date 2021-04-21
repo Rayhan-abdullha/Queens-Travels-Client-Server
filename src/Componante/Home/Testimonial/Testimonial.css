@@ -1,0 +1,22 @@
+.testimonial {
+    background-image: linear-gradient(120deg,#eef1f2, #fff);
+}
+.single-review {
+    border: 1px solid #ddd;
+    padding: 20px;
+    overflow: scroll;
+    transition: .3s;
+}
+.single-review li {
+    list-style: none;
+    margin-bottom: 10px;
+}
+.single-review p {
+    font-size: 15px;
+}
+.single-review li svg {
+    font-size: 20px;
+}
+.single-review:hover {
+    background: #ffffff;
+}

@@ -1,0 +1,9 @@
+.manageItems {
+    width: 100%;
+}
+table.manageItems tr th {
+    padding: 10px 0 10px 20px;
+}
+table.manageItems tr td {
+    padding: 10px 0 10px 20px;
+}

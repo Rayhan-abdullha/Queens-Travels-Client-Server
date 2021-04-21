@@ -1,0 +1,25 @@
+a.navbar-brand {
+    font-weight: 700;
+    color: #fff!important;
+}
+.ml-auto.navbar-nav li {
+    margin-right: 20px;
+    list-style: none;
+}
+.menu-bar{
+    padding: 10px 0;
+    position: fixed;
+    z-index: 999;
+}
+
+/* resposive */
+@media only screen and (max-width: 992px) {
+    .ml-auto.navbar-nav li {
+        margin-right: 20px;
+        list-style: none;
+        margin-bottom: 15px;
+    }
+    a.btn.btn-outline-success {
+        margin-right: 50px;
+    }
+}

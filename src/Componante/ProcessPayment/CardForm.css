@@ -1,0 +1,20 @@
+.payment-from {
+    background: #e8e8e8;
+    padding: 50px;
+}
+
+.payment-from label {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.StripeElement.StripeElement--empty {
+    padding: 20px 10px;
+    background: #fff;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.payment-from button {
+    width: 220px;
+    margin-top: 20px;
+}

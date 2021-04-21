@@ -1,0 +1,34 @@
+.package-img img {
+    width: 100%
+}
+.package-dtls p {
+    margin-top: 6px;
+}
+.package-dtls li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.single-package {
+    border: 1px solid #e8e8e8;
+    transition: .3s;
+}
+.package-img {
+    height: 220px;
+}
+.package-img img {
+    height: 100%;
+}
+.package-dtls {
+    padding: 20px;
+    text-align: justify;
+}
+.package-dtls p {
+    font-size: 15px;
+}
+.package-dtls h4 {
+    text-transform: capitalize;
+}
+.single-package:hover {
+    background: #f2f4f5;
+}

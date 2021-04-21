@@ -1,0 +1,27 @@
+.icon svg {
+    border-radius: 50%;
+    padding: 20px;
+    font-size: 80px;
+    margin-bottom: 35px;
+}
+.icon svg {
+    background: #28a745;
+    color: #fff;
+}
+.contact-from form {
+    width: 60%;
+    background: #f9fafb;
+    margin: auto;
+    padding: 40px;
+    border-radius: 5px;
+}
+.contact-from button {
+    border: 0;
+    background: #28a745;
+    padding: 8px 30px;
+    color: #fff;
+    border-radius: 4px;
+}
+.contact-from button:hover {
+    background: green;
+}
