@@ -11,6 +11,10 @@
 .sidebar svg{
     margin-right: 5px;
 }
+.sidebar.d-flex.flex-column.justify-content-between.col-xl-2.col-md-4.col-sm-12.py-5.px-4 {
+    position: relative;
+}
+
 
 @media only screen and (min-width: 768px) {
     .sidebar {
